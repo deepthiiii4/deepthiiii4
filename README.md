@@ -1,4 +1,4 @@
-**## Hi there 👋 I'm DEEPTHI ILANGOVAN!
+## Hi there 👋 I'm DEEPTHI!
 
 🎓 I’m currently a **3rd-year Computer Science Engineering student** at **Shiv Nadar University**
 
