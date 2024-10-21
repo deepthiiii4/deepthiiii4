@@ -1,16 +1,18 @@
-## Hi there 👋
+**## Hi there 👋 I'm DEEPTHI ILANGOVAN!
 
-<!--
-**deepthiiii4/deepthiiii4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently a **3rd-year Computer Science Engineering student** at **Shiv Nadar University**
 
-Here are some ideas to get you started:
+- 📍 Based in **Chennai, India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Technologies:
+- **Programming Languages**: Java, Python, C, C++, JavaScript, bash, solidity
+- **Web Technologies**: HTML/CSS, MySQL, Nodejs, Nextjs, React, SpringBoot,MongoDB
+- **Frameworks & Tools**: Git/GitHub, AWS, PyGTK
+- 
+### 🔗 Let's Connect!
+- 💻 [GitHub](https://github.com/deepthiiii4)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepthi-ilangovan-1169ab242/)
+- 📫 Email: [deepthiilango@gmail.com](mailto:deepthiilango@gmail.com)
+
+---
+
