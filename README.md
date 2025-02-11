@@ -8,8 +8,7 @@
 - **Programming Languages**: Java, Python, C, C++, JavaScript, bash, Solidity
 - **Web Technologies**: HTML/CSS, MySQL, Node.js, Next.js, React, Spring Boot, MongoDB
 - **Frameworks & Tools**: Git/GitHub, AWS, PyGTK, Docker, MySQL Workbench, LINUX, Numpy,Pandas, OpenCV
-### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthiiii4&layout=compact&theme=radical)
+
 
 
 
