@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm DEEPTHI!
 
-🎓 I’m currently a **3rd-year Computer Science Engineering student** at **Shiv Nadar University**
+🎓 I’m currently a **final-year Computer Science Engineering student** at **Shiv Nadar University**
 
 - 📍 Based in **Chennai, India**
   
